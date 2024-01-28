@@ -1,2 +1,2 @@
 # alexa-veedu
-alexa smarthome skill
+alexa smarthome tamil skill
